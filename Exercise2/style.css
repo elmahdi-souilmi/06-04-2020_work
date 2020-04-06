@@ -1,0 +1,13 @@
+*{
+    margin-top: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 4px;
+    
+   
+}
+.holder{
+    margin-top: 5%;
+    background-color: paleturquoise;
+    border-radius: 6px;
+    padding: 16px;
+}

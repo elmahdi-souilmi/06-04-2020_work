@@ -1,0 +1,31 @@
+.theholder{
+    background-color: dodgerblue;
+    border-radius: 12px;
+    margin-top: 300px;
+    width: auto;
+    height: auto;
+    left: 500px;
+    top: 226px;
+}
+#amount{
+    border-color: yellow;
+    border-width: 4px;
+}
+
+.formrow{
+    padding-top: 23px;
+    flex-direction: column;
+
+}
+option{
+    color: darkslategray;
+}
+*{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: large;
+color: azure;
+}
+#btn{
+    margin-top: 12px;
+    width: 400px;
+}
